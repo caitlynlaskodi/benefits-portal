@@ -1,0 +1,87 @@
+{
+  "employees": [
+    {
+      "firstName": "Jonathan",
+      "lastName": "Jacob",
+      "annualCost": 1450,
+      "dependents": [
+        {
+          "firstName": "Alice Marie",
+          "lastName": "Jacob",
+          "relationship": "Spouse",
+          "annualCost": 450
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Harold",
+      "lastName": "Smith",
+      "dependents": [
+        {
+          "firstName": "Barbara",
+          "lastName": "Smith",
+          "relationship": "Spouse"
+        },
+        {
+          "firstName": "Chloe",
+          "lastName": "Smith",
+          "relationship": "Child"
+        }
+      ],
+      "annualCost": 2000
+    },
+    {
+      "firstName": "Jeffrey",
+      "lastName": "Zakarian",
+      "annualCost": 1900,
+      "dependents": [
+        {
+          "firstName": "Amy",
+          "lastName": "Zakarian",
+          "relationship": "Spouse",
+          "annualCost": 450,
+          "applyDiscount": false
+        },
+        {
+          "firstName": "Adrian",
+          "lastName": "Zakarian",
+          "relationship": "Child",
+          "annualCost": 450,
+          "applyDiscount": false
+        }
+      ],
+      "id": "805e"
+    },
+    {
+      "id": "2ec6",
+      "firstName": "Connor",
+      "lastName": "Laskodi",
+      "annualCost": 1450,
+      "dependents": [
+        {
+          "firstName": "Aven",
+          "lastName": "Brown",
+          "relationship": "Spouse",
+          "annualCost": 450,
+          "applyDiscount": false
+        }
+      ]
+    },
+    {
+      "firstName": "John",
+      "lastName": "Jacobson",
+      "annualCost": 1500,
+      "dependents": [
+        {
+          "firstName": "Hello",
+          "lastName": "World",
+          "annualCost": 500,
+          "relationship": "Spouse"
+        }
+      ],
+      "id": "e852"
+    }
+  ]
+}
